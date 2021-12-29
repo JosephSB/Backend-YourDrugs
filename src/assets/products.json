@@ -1,0 +1,213 @@
+
+{
+    "Productos": [
+        {
+            "id": "01",
+            "name": "CHICAGO",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/chicago.png",
+            "score": 5,
+            "price": 3.5,
+            "description": "NUEVA EDICIÓN DE NUESTRA LÍNEA DE PÍLDORAS EXCLUSIVAS DE NUESTRO SOCIO, ESTA PASTILLA DE MDMA COLOR PURPURA QUE TE DEJA ALUCINADO, CON SABOR A FRAMBUESA Y MORA.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 72,
+                "ADRENALIN": 82,
+                "TOXICITY": 10,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "02",
+            "name": "PINK-PILL",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/pink-pill.png",
+            "score": 5,
+            "price": 2.5,
+            "description": "NUEVA EDICIÓN DE NUESTRA LÍNEA DE PÍLDORAS EXCLUSIVAS DE NUESTRO SOCIO, ESTA PASTILLA DE MDMA COLOR ROSA QUE TE DEJA CON FULL LOCURA, CON SABOR A ROSAS Y FRESA.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 88,
+                "ADRENALIN": 70,
+                "TOXICITY": 8,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "03",
+            "name": "BLUE-FLOWER",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/blue-flower.png",
+            "score": 5,
+            "price": 4,
+            "description": "UNA DE NUESTRAS PÍLDORAS CLASICAS, ESTA PASTILLA DE MDMA COLOR AZUL ES ESPECIAL PARA TUS MOMENTOS DE ADRENALINA, CON SABOR A MORA Y ARANDANOS.",
+            "features": [{
+                "DURATION": "5-6 HORAS",
+                "ECSTASY": 92,
+                "ADRENALIN": 73,
+                "TOXICITY": 12,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "04",
+            "name": "GREEN-SNOWFLAKE",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/green-snowflake.png",
+            "score": 5,
+            "price": 1.5,
+            "description": "UNA DE NUESTRAS PÍLDORAS MAS ECONOMICAS PERO NO POR ESO DE MENOR CALIDAD, ESTA PASTILLA DE MDMA COLOR VERDE CLARO QUE TE DEJA EXTASIADO, CON SABOR A MENTA Y HIERBAS.",
+            "features": [{
+                "DURATION": "3-6 HORAS",
+                "ECSTASY": 75,
+                "ADRENALIN": 62,
+                "TOXICITY":5,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "05",
+            "name": "BOOM",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/boom.png",
+            "score": 5,
+            "price": 2,
+            "description": "UNA DE NUESTRAS PÍLDORAS MAS ECONOMICAS PERO NO POR ESO DE MENOR CALIDAD, ESTA PASTILLA DE MDMA COLOR VERDE CLARO QUE TE LLEVARA A OTRO PLANETA, CON SABOR A PURA MENTA.",
+            "features": [{
+                "DURATION": "3-5 HORAS",
+                "ECSTASY": 81,
+                "ADRENALIN": 66,
+                "TOXICITY":7,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "06",
+            "name": "COKE",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/coke.png",
+            "score": 5,
+            "price": 3.2,
+            "description": "UNA DE NUESTRAS MEJORES PÍLDORAS HECHA CON LA RECETA SECRETA DE COCA COLA, ESTA PASTILLA DE MDMA COLOR ROJO ES IDEAL PARA ESOS DIAS CON AMIGOS, CON SABOR A COCA COLA.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 70,
+                "ADRENALIN": 66,
+                "TOXICITY":4,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "07",
+            "name": "DEMON",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/demon.png",
+            "score": 5,
+            "price": 3.8,
+            "description": "UNA DE NUESTRAS PÍLDORAS MAS EXTREMAS, ESTA PASTILLA DE MDMA COLOR AZUL CLARO TE LLEVARA A DAR UN PASEO POR TODO EL UNIVERSO, RECOMENDADO PARA TUS DIAS DE FULL ESTRES, CON SABOR A ARANDANOS.",
+            "features": [{
+                "DURATION": "5-7 HORAS",
+                "ECSTASY": 93,
+                "ADRENALIN": 88,
+                "TOXICITY":10,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "08",
+            "name": "LIGTH-BLUE",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/LIGTH-BLUE.png",
+            "score": 5,
+            "price": 2.8,
+            "description": "NO TE DEJES LLEVAR POR LAS APARIENCIAS, ESTA ES UNA DE NUESTRAS PÍLDORAS MAS POTENTES, ESTA PASTILLA DE MDMA COLOR CELESTE QUE TE DEJARA LLENO DE ADRENALINA, CON SABOR A CHICLE.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 83,
+                "ADRENALIN": 92,
+                "TOXICITY":9,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "09",
+            "name": "MAD-RIO",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/mad-rio.png",
+            "score": 5,
+            "price": 2.4,
+            "description": "PREPARATE PARA RESCATAR A LA PRINCESA, ESTA PASTILLA DE MDMA COLOR AZUL CLARO TE LLEVARA DE AVENTURA, CON SABOR A MENTA Y MORA.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 78,
+                "ADRENALIN": 73,
+                "TOXICITY":6,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "10",
+            "name": "MDMA-PACK",
+            "type": "MDMA",
+            "img": "http://192.168.1.2:3000/images/mdma-pack.png",
+            "score": 5,
+            "price": 43,
+            "description": "NO TE OLVIDES DEL PROJIMO, CON ESTA OFERTA HAY SUFICIENTE PARA TODOS, CONTIENE LAS PÍLDORAS MAS POTENTES, ESTAE PACK DE MDMA CONTIENE 32 PILDORAS SUFICIENTE PARA AMANECER MUERTO MAÑANA.",
+            "features": [{
+                "DURATION": "4-6 HORAS x 1",
+                "ECSTASY": 83,
+                "ADRENALIN": 92,
+                "TOXICITY":9,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "11",
+            "name": "POOP",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/poop.png",
+            "score": 5,
+            "price": 2.5,
+            "description": "UNA DE NUESTRAS MEJORES PÍLDORAS QUE TE DEJARA ADICTO, ESTA PASTILLA DE MDMA COLOR CELESTE TE DEJARA ALUCINAR, CON SABOR A CHICLE Y MENTA.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 78,
+                "ADRENALIN": 72,
+                "TOXICITY":7,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "12",
+            "name": "SUPER-MDMA",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/super-mdma.png",
+            "score": 5,
+            "price": 4,
+            "description": "HOY ES TU NOCHE, ESTA ES UNA DE NUESTRAS PÍLDORAS EXCLUSIVAS MAS POTENTES, ESTA PASTILLA DE MDMA COLOR CELESTE TE DEJARA VOLAR POR LOS CIELOS DE TANTA ADRENALINA, CON SABOR A CHICLE, MORA Y ARANDANOS.",
+            "features": [{
+                "DURATION": "6-7 HORAS",
+                "ECSTASY": 95,
+                "ADRENALIN": 92,
+                "TOXICITY":14,
+                "AMOUNT": "100 MG x 1"
+            }]
+        },
+        {
+            "id": "13",
+            "name": "XOXO",
+            "type": "MDMA",
+            "img": "http://192.168.1.5:3000/images/xoxo.png",
+            "score": 5,
+            "price": 2.4,
+            "description": "TE FALTA AMOR ?, ESTA ES UNA DE NUESTRAS PÍLDORAS PARA TUS DIAS ESPECIALES, ESTA PASTILLA DE MDMA COLOR ROSA TE DEJARA LLENO DE ADRENALINA, CON SABOR A FRESAS.",
+            "features": [{
+                "DURATION": "4-6 HORAS",
+                "ECSTASY": 78,
+                "ADRENALIN": 76,
+                "TOXICITY":9,
+                "AMOUNT": "100 MG x 1"
+            }]
+        }
+    ]
+}
